@@ -30,7 +30,7 @@ navigation:
 #  - name: Tags
 #    url: /tags
 #  - name: Theme
-#    url: 
+#    url:  
 
 # Pagination
 paginate: 10
